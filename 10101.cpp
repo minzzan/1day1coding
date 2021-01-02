@@ -1,4 +1,4 @@
-// 1월 1일이라서 10101 
+// 1월 1일이라서 백준 10101  
 #include<iostream>
 
 using namespace std;
